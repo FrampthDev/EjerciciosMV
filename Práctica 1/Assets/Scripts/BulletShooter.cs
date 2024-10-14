@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Gun : MonoBehaviour
+public class BulletShooter : MonoBehaviour
 {
     public GameObject spike;
     public static extern Object Instantiate(Object original);

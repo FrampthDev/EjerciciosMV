@@ -6,6 +6,8 @@ public class ScriptPlayerMovement : MonoBehaviour
 {
     public float speed = 5f;
 
+    public float MaxLeft = -7.25f, MaxRight = 7.25f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,10 +18,10 @@ public class ScriptPlayerMovement : MonoBehaviour
     void Update()
     {        
        
-        if (Input.GetKey(KeyCode.A) && transform.position.x > -7.25)
+        if (Input.GetKey(KeyCode.A) && transform.position.x > MaxLeft)
             transform.Translate(Vector3.left * speed * Time.deltaTime);
 
-        if (Input.GetKey(KeyCode.D) && transform.position.x < 7.25)
+        if (Input.GetKey(KeyCode.D) && transform.position.x < MaxRight)
             transform.Translate(Vector3.right * speed * Time.deltaTime);         
         
     }
