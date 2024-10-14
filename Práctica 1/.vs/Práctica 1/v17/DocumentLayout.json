@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scripts\\scriptspike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptspike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scriptspike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptspike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScriptPlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\ScriptPlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\ScriptPlayerMovement.cs",
-              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\ScriptPlayerMovement.cs",
-              "RelativeToolTip": "Assets\\ScriptPlayerMovement.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T09:59:12.417Z",
+              "WhenOpened": "2024-10-11T10:29:32.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ScriptSpike.cs",
-              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\ScriptSpike.cs",
-              "RelativeDocumentMoniker": "Assets\\ScriptSpike.cs",
-              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\ScriptSpike.cs",
-              "RelativeToolTip": "Assets\\ScriptSpike.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\ScriptSpike.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptSpike.cs",
+              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\ScriptSpike.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptSpike.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T09:57:20.414Z",
+              "WhenOpened": "2024-10-11T10:28:44.117Z",
               "EditorCaption": ""
             }
           ]
