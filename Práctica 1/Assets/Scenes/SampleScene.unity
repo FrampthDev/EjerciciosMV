@@ -259,6 +259,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spike: {fileID: 8977830759216685486, guid: bc33695a784e731448fcd3e7353d71a2, type: 3}
+--- !u!1 &440946218
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 440946219}
+  - component: {fileID: 440946220}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &440946219
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 440946218}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.5930853, y: 0.525413, z: 1.9576569}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &440946220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 440946218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f221855a99098bd97c5460ce319d5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &496652696
 GameObject:
   m_ObjectHideFlags: 0
@@ -800,6 +844,7 @@ GameObject:
   - component: {fileID: 1647692975}
   - component: {fileID: 1647692974}
   - component: {fileID: 1647692976}
+  - component: {fileID: 1647692977}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -874,6 +919,18 @@ MonoBehaviour:
   speed: 5
   MaxLeft: -7.25
   MaxRight: 7.25
+--- !u!114 &1647692977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1647692973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bce4dc4fd1d2001a8a169cc2d717e36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1689864673
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1259,3 +1316,4 @@ SceneRoots:
   - {fileID: 621761993772220456}
   - {fileID: 1096370538}
   - {fileID: 1689864673}
+  - {fileID: 440946219}

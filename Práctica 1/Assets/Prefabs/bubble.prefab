@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1706172164190152918}
   - component: {fileID: 4530312172095241798}
   - component: {fileID: 62850782306120353}
+  - component: {fileID: 6490932613884005677}
   m_Layer: 0
   m_Name: bubble
   m_TagString: Untagged
@@ -96,6 +97,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &6490932613884005677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410646752048949678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac192b0c301e6d2a9a13aa98133d84e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bubble: {fileID: 0}
 --- !u!1 &5770921862631101905
 GameObject:
   m_ObjectHideFlags: 0
