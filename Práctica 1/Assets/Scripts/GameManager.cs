@@ -9,6 +9,10 @@ public class GameManager : MonoBehaviour
 
     public static GameManager Instance {get; private set;}
 
+    
+    bool endGame=false;
+    int nBubbles;
+
     void awake(){
         if (Instance!=null && Instance !=this){
             Destroy(this);
@@ -16,24 +20,38 @@ public class GameManager : MonoBehaviour
         else{
             Instance = this;
         }
+        nBubbles=0;
+
     }
-    bool endGame=false;
+
 
     //Comienza el GameManager
     void Start()
     {
-        Debug.Log("hola mundo");
     }
 
     // Update is called once per frame
     void Update()
     {
+        // Pierdes la partida
         if (endGame){
+            Debug.Log("Fin de partida");
+        }
+        // Ganas la partida
+        if (nBubbles==0){
             Debug.Log("Fin de partida");
         }
     }
 
     public void OnPlayerDamaged(){
         endGame= true;
+    }
+
+    public void OnBubbleCreated(){
+        nBubbles++;
+    }
+
+    public void OnBubbleDamaged(){
+        nBubbles--;
     }
 }
