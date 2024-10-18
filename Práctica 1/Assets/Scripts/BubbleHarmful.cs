@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BubbleHarmfull : MonoBehaviour
 {
-    public GameObject bubble;
+    //public GameObject bubble;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,8 +20,14 @@ public class BubbleHarmfull : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision){
         // detecta si hay una colisión
         if (collision.gameObject.GetComponent<PlayerHealth>() != null){
-            collision.gameObject.GetComponent<PlayerHealth>().Harm();
+        
+           collision.gameObject.GetComponent<PlayerHealth>().Harm();
         }
+
+        if (collision.gameObject==null){
+            Debug.Log("null");
+        }
+        Debug.Log("Collision"); 
         // Comprueba si la colisión ha sido con PlayerHealth, si es correcto, llama a la función Harm del objecto PlayerHealth. 
     }
 }

@@ -34,13 +34,13 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         // Pierdes la partida
-        if (endGame){
+        /*if (endGame){
             Debug.Log("Fin de partida");
         }
         // Ganas la partida
         if (nBubbles==0){
             Debug.Log("Fin de partida");
-        }
+        }*/
     }
 
     public void OnPlayerDamaged(){
