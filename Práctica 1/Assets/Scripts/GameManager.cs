@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     bool endGame=false;
     int nBubbles;
 
-    void awake(){
+    void Awake(){
         if (Instance!=null && Instance !=this){
             Destroy(this);
         }
