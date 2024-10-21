@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     bool endGame=false;
     int nBubbles;
 
-    void awake(){
+    void Awake(){
         if (Instance!=null && Instance !=this){
             Destroy(this);
         }
@@ -28,23 +28,17 @@ public class GameManager : MonoBehaviour
     //Comienza el GameManager
     void Start()
     {
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        // Pierdes la partida
-        /*if (endGame){
-            Debug.Log("Fin de partida");
-        }
-        // Ganas la partida
-        if (nBubbles==0){
-            Debug.Log("Fin de partida");
-        }*/
+    
     }
 
     public void OnPlayerDamaged(){
-        endGame= true;
+        endGame = true;
     }
 
     public void OnBubbleCreated(){

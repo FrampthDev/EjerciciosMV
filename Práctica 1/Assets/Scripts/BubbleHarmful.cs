@@ -17,15 +17,22 @@ public class BubbleHarmfull : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision){
+    void OnCollisionEnter2D(Collision2D collision){
         // detecta si hay una colisión
-        if (collision.gameObject.GetComponent<PlayerHealth>() != null){
+       /* if (collision.gameObject.GetComponent<PlayerHealth>() != null){
         
            collision.gameObject.GetComponent<PlayerHealth>().Harm();
-        }
+        }*/
 
         if (collision.gameObject==null){
             Debug.Log("null");
+        }else
+        {
+            PlayerHealth health = collision.gameObject.GetComponent<PlayerHealth>();
+            if (health != null){
+                health.Harm();
+                
+            }
         }
         Debug.Log("Collision"); 
         // Comprueba si la colisión ha sido con PlayerHealth, si es correcto, llama a la función Harm del objecto PlayerHealth. 

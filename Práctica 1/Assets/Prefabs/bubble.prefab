@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4530312172095241798}
   - component: {fileID: 62850782306120353}
   - component: {fileID: 6490932613884005677}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: bubble
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109,7 +109,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cac192b0c301e6d2a9a13aa98133d84e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bubble: {fileID: 0}
 --- !u!1 &5770921862631101905
 GameObject:
   m_ObjectHideFlags: 0
@@ -120,7 +119,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4206339349074437514}
   - component: {fileID: 8167191810106238283}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: bubble1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
