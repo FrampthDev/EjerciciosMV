@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class UIManager : MonoBehaviour
 {
+    public Text test;
     public static UIManager Instance {get; private set;}
-    void awake(){
+    void Awake(){
         if (Instance!=null && Instance !=this){
             Destroy(this);
         }
@@ -17,7 +18,7 @@ public class UIManager : MonoBehaviour
     }
     void Start()
     {
-        
+        test.text = "test";
     }
 
     // Update is called once per frame

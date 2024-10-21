@@ -21,7 +21,6 @@ public class BubbleDestroyer : MonoBehaviour
     {
         Destroy(collision.gameObject);
         Destroy(gameObject);
-        //Object.Instantiate(bubble, transform.position, transform.rotation);
     }
 }
 
