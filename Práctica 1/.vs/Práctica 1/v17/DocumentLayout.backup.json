@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scripts\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\spikemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\bubbleharmful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Blowup.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Blowup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Blowup.cs",
@@ -58,11 +58,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Blowup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:04:51.852Z"
+              "WhenOpened": "2024-10-18T10:04:51.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
@@ -70,8 +71,7 @@
               "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:51:51.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T09:51:51.962Z"
             },
             {
               "$type": "Document",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ScriptPlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\ScriptPlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptPlayerMovement.cs",
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SpikeMovement.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\SpikeMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpikeMovement.cs",

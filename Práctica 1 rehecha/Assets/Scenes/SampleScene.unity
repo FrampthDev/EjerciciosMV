@@ -347,6 +347,7 @@ MonoBehaviour:
   Speed: 5
   MaxLeft: -7.25
   MaxRight: 7.25
+  Bullet: {fileID: 4101803417612688349, guid: 74b459939a0566346b12939a18d99d01, type: 3}
 --- !u!70 &352312124
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -570,11 +571,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: initialForceDirection.x
-      value: -100
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: initialForceDirection.y
-      value: -100
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 608239202270914770, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1071,6 +1072,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224750012}
     m_Modifications:
+    - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
+      propertyPath: initialForceMagnitude
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
+      propertyPath: initialForceDirection.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
+      propertyPath: initialForceDirection.y
+      value: -8
+      objectReference: {fileID: 0}
     - target: {fileID: 608239202270914770, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.6069884
@@ -1332,11 +1345,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: initialForceDirection.x
-      value: 2000
+      value: -3
       objectReference: {fileID: 0}
     - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: initialForceDirection.y
-      value: 2000
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 608239202270914770, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: m_LocalPosition.x

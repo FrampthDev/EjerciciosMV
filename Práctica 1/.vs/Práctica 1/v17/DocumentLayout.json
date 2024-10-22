@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scripts\\bulletshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scripts\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\spikemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\bubbledestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubbledestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\bubbleharmful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +19,24 @@
       "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\bubbledestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubbledestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\spikemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|c:\\users\\jzazo\\documents\\github\\ejerciciosmv\\pr\u00E1ctica 1\\assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blowup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AD78866-54F2-C862-A4D6-E4EF4D25D659}|Assembly-CSharp.csproj|C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\assets\\scripts\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,31 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Blowup.cs",
-              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Blowup.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Blowup.cs",
-              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Blowup.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Blowup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "BulletShooter.cs",
+              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\BulletShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletShooter.cs",
+              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\BulletShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletShooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:04:51.852Z",
+              "WhenOpened": "2024-10-22T18:37:43.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
-              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:51:51.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "BubbleHarmful.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\BubbleHarmful.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BubbleHarmful.cs",
@@ -83,11 +75,12 @@
               "RelativeToolTip": "Assets\\Scripts\\BubbleHarmful.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:30:18.068Z"
+              "WhenOpened": "2024-10-18T09:30:18.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ScriptPlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\ScriptPlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptPlayerMovement.cs",
@@ -100,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
@@ -108,11 +101,12 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:28:25.528Z"
+              "WhenOpened": "2024-10-18T09:28:25.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -124,31 +118,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SpikeMovement.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\SpikeMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpikeMovement.cs",
               "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\SpikeMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpikeMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:13:11.336Z"
+              "WhenOpened": "2024-10-14T10:13:11.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "BubbleDestroyer.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\BubbleDestroyer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BubbleDestroyer.cs",
               "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\BubbleDestroyer.cs",
               "RelativeToolTip": "Assets\\Scripts\\BubbleDestroyer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:05:34.005Z"
+              "WhenOpened": "2024-10-14T10:05:34.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:51:51.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blowup.cs",
+              "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Blowup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blowup.cs",
+              "ToolTip": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Blowup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blowup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:04:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Bubble.cs",
               "DocumentMoniker": "C:\\Users\\jzazo\\Documents\\GitHub\\EjerciciosMV\\Pr\u00E1ctica 1\\Assets\\Scripts\\Bubble.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble.cs",
