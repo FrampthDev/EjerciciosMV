@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerHealth : MonoBehaviour
+public class Health : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -15,8 +15,10 @@ public class PlayerHealth : MonoBehaviour
     {
         
     }
-    public void Harm(){
-        //llama a la función del GameManager OnPlayerDamaged.
+
+    public void Harm()
+    {
         GameManager.Instance.OnPlayerDamaged();
+        Destroy(gameObject);
     }
 }

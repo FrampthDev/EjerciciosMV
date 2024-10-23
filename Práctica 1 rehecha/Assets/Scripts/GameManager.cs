@@ -1,51 +1,54 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public static GameManager Instance { get; private set; }
 
-    public static GameManager Instance {get; private set;}
+    int Bubbles;
+    bool EndGame = false;
 
-    
-    bool endGame=false;
-    int nBubbles;
-
-    void Awake(){
-        if (Instance!=null && Instance !=this){
+    private void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
             Destroy(this);
         }
-        else{
+        else
+        {
             Instance = this;
         }
-        nBubbles=0;
-
+        Bubbles = 0;
     }
-
-
-    //Comienza el GameManager
+    // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-    
+        if ((Bubbles == 0) && (EndGame == false))
+        {
+            Debug.Log("Has ganado");
+            EndGame = true; 
+        }
     }
 
-    public void OnPlayerDamaged(){
-        endGame = true;
+    public void OnPlayerDamaged()
+    {
+        Debug.Log("Has perdido");
     }
 
-    public void OnBubbleCreated(){
-        nBubbles++;
+    public void OnBubbleCreated()
+    {
+        Bubbles++;
     }
 
-    public void OnBubbleDamaged(){
-        nBubbles--;
+    public void OnBubbleDamaged()
+    {
+        Bubbles--;
     }
 }

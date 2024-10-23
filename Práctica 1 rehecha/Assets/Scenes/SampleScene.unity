@@ -409,7 +409,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 352312122}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 57490c2153f579ccab57b577c7b4f547, type: 3}
+  m_Script: {fileID: 11500000, guid: 8e1fec26110211b45910eb89f774f62a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &357154335
@@ -578,6 +578,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224750012}
     m_Modifications:
+    - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
+      propertyPath: InitialForceMagnitude
+      value: 300
+      objectReference: {fileID: 0}
     - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: initialForceMagnitude
       value: 300
@@ -1086,6 +1090,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 224750012}
     m_Modifications:
     - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
+      propertyPath: InitialForceMagnitude
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: initialForceMagnitude
       value: 300
       objectReference: {fileID: 0}
@@ -1141,7 +1149,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bubble (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1678635269601445698, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
+    - {fileID: 1411233813841496317, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1313,7 +1323,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1809116024}
-  - component: {fileID: 1809116023}
+  - component: {fileID: 1809116025}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -1321,18 +1331,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1809116023
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1809116022}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 51077e1e3a8ef25d8b8895dcb9b2f4a6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &1809116024
 Transform:
   m_ObjectHideFlags: 0
@@ -1348,6 +1346,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1809116025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1809116022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51077e1e3a8ef25d8b8895dcb9b2f4a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1829523562 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 608239202270914770, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
@@ -1396,6 +1406,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224750012}
     m_Modifications:
+    - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
+      propertyPath: InitialForceMagnitude
+      value: 300
+      objectReference: {fileID: 0}
     - target: {fileID: -7176421863714115849, guid: 1e3ad741b091d6c448e5e36b6ecffe08, type: 3}
       propertyPath: initialForceMagnitude
       value: 300
