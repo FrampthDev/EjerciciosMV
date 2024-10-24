@@ -32,14 +32,14 @@ public class GameManager : MonoBehaviour
     {
         if ((Bubbles == 0) && (EndGame == false))
         {
-            UIManager.Instance.Inform("¡Has ganado!");
+            UIManager.Instance.Inform("Â¡Has ganado!");
             EndGame = true; 
         }
     }
 
     public void OnPlayerDamaged()
     {
-        UIManager.Instance.Inform("¡Has perdido!");
+        UIManager.Instance.Inform("Â¡Has perdido!");
     }
 
     public void OnBubbleCreated()
